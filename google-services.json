@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "980402936139",
+    "firebase_url": "https://booking-yuk.firebaseio.com",
+    "project_id": "booking-yuk",
+    "storage_bucket": "booking-yuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980402936139:android:c69f5cccc269692f",
+        "android_client_info": {
+          "package_name": "com.sanchezofficial.bookingyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980402936139-1b97gp8ct14el6a8luqqsbpglb9fl1lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanchezofficial.bookingyuk",
+            "certificate_hash": "b41c3176fbec7034121d58f5821796fc0a1144c6"
+          }
+        },
+        {
+          "client_id": "980402936139-jmoab7c525u2f6n89sp5h59bobsj4nv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AlY2om27wO7ijuWsM4VEZtpiqlTAh_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980402936139-jmoab7c525u2f6n89sp5h59bobsj4nv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
